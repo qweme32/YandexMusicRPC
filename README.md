@@ -8,4 +8,4 @@
 <br>
 <p align="center"><img src="https://i.ibb.co/WpgPzkq/image.png" width="318px"></img></p>
 
-<p align="center"><a href="https://github.com/">Скачать</a></p>
+<p align="center"><a href="https://github.com/qweme32/YandexMusicRPC/releases/latest">Скачать одним exe файлом</a></p>
