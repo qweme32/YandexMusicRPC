@@ -1,0 +1,11 @@
+<p align="center">
+  <a href="https://strapi.io/#gh-dark-mode-only">
+    <img src="https://i.ibb.co/h25HGBr/image.png" width="350px" alt="logo" />
+  </a>
+</p>
+
+<h3 align="center">Клиент с интеграцией в дискорд</h3>
+<br>
+<p align="center"><img src="https://i.ibb.co/WpgPzkq/image.png" width="318px"></img></p>
+
+<p align="center"><a href="https://github.com/">Скачать</a></p>

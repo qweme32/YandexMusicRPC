@@ -1,0 +1,27 @@
+{
+  "name": "yandex-music-rpc",
+  "version": "1.0.0",
+  "description": "YandexMusic client with discord rich-presence integration",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "electron .",
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "author": "qweme32",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.3",
+    "@electron-forge/maker-deb": "^6.0.3",
+    "@electron-forge/maker-rpm": "^6.0.3",
+    "@electron-forge/maker-squirrel": "^6.0.3",
+    "@electron-forge/maker-zip": "^6.0.3",
+    "electron": "^21.2.3"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
