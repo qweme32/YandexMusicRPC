@@ -9,3 +9,5 @@
 <p align="center"><img src="https://i.ibb.co/WpgPzkq/image.png" width="318px"></img></p>
 
 <p align="center"><a href="https://github.com/qweme32/YandexMusicRPC/releases/latest">Скачать одним exe файлом</a></p>
+
+<p align="center"><img src="https://img.shields.io/github/downloads/qweme32/YandexMusicRPC/total?style=social"></p>
